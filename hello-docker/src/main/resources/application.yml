@@ -1,2 +1,6 @@
 server:
+<<<<<<< HEAD
   port: 80
+=======
+  port: 81
+>>>>>>> a325e22b4c62c7a92f0a1b3946aec6370079cf76
